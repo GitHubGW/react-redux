@@ -2,7 +2,11 @@
 
 ## 🔗 Demo
 
+https://githubgw.github.io/react-redux
+
 ## 🖥 Preview
+
+<img src="preview.png" />
 
 ## 🔥 Stack
 
